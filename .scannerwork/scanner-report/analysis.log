@@ -1,0 +1,183 @@
+Environment variables:
+  - =::=::\
+  - =E:=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp
+  - =ExitCode=00000000
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Nallam\AppData\Roaming
+  - COMPUTERNAME=DESKTOP-8KHVNPH
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Nallam
+  - JAVA_EXEC="C:\sonar-scanner\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\sonar-scanner\bin\..\jre
+  - LOCALAPPDATA=C:\Users\Nallam\AppData\Local
+  - LOGONSERVER=\\DESKTOP-8KHVNPH
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\Nallam\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=2a07
+  - PROJECT_HOME=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp
+  - PROMPT=$P$G
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\composer;C:\xampp\mysql\bin;C:\xampp\php;C:\sonar-scanner\bin;C:\Users\Nallam\AppData\Local\Microsoft\WindowsApps;C:\Users\Nallam\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files (x86)\Java\jre1.8.0_181\bin;C:\Users\Nallam\AppData\Roaming\Composer\vendor\bin;C:\xampp;C:\Gradle\gradle-4.9\bin;C:\sonar-scanner\bin;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=C:\sonar-scanner\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\Nallam\AppData\Local\Temp
+  - TMP=C:\Users\Nallam\AppData\Local\Temp
+  - USERDOMAIN=DESKTOP-8KHVNPH
+  - USERDOMAIN_ROAMINGPROFILE=DESKTOP-8KHVNPH
+  - USERNAME=Nallam
+  - USERPROFILE=C:\Users\Nallam
+  - scriptdir=C:\sonar-scanner\bin
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\sonar-scanner\bin\..\lib\sonar-scanner-cli-3.2.0.1227.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\sonar-scanner\jre\lib\endorsed
+  - java.ext.dirs=C:\sonar-scanner\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\sonar-scanner\jre
+  - java.io.tmpdir=C:\Users\Nallam\AppData\Local\Temp\
+  - java.library.path=C:\sonar-scanner\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\composer;C:\xampp\mysql\bin;C:\xampp\php;C:\sonar-scanner\bin;C:\Users\Nallam\AppData\Local\Microsoft\WindowsApps;C:\Users\Nallam\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Program Files (x86)\Java\jre1.8.0_181\bin;C:\Users\Nallam\AppData\Roaming\Composer\vendor\bin;C:\xampp;C:\Gradle\gradle-4.9\bin;C:\sonar-scanner\bin;;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp
+  - scanner.home=C:\sonar-scanner\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\sonar-scanner\jre\lib\resources.jar;C:\sonar-scanner\jre\lib\rt.jar;C:\sonar-scanner\jre\lib\sunrsasign.jar;C:\sonar-scanner\jre\lib\jsse.jar;C:\sonar-scanner\jre\lib\jce.jar;C:\sonar-scanner\jre\lib\charsets.jar;C:\sonar-scanner\jre\lib\jfr.jar;C:\sonar-scanner\jre\classes
+  - sun.boot.library.path=C:\sonar-scanner\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -Dsonar.projectKey=veeruborra_myAngularApp -Dsonar.organization=veeruborra-github -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=b02684cc84b964667be3019b2970ed46427ef10a -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp850
+  - sun.stdout.encoding=cp850
+  - user.country=IN
+  - user.dir=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp
+  - user.home=C:\Users\Nallam
+  - user.language=en
+  - user.name=Nallam
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - SonarCSS 1.0.2.611 (cssfamily)
+  - Bitbucket Authentication for SonarQube 1.2.0.391 (authbitbucket)
+  - SonarPLSQL 3.2.0.1753 (plsql)
+  - SonarC# 7.4.0.6452 (csharp)
+  - SonarSecurity 7.3.0.1282 (security)
+  - SonarJava 5.7.0.15470 (java)
+  - SonarHTML 3.0.1.1444 (web)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarTS 1.8.0.3332 (typescript)
+  - SonarVB 5.2.0.604 (vbnet)
+  - SonarSwift 4.0.0.2853 (swift)
+  - GitHub 1.5.0.1362 (github)
+  - SonarCFamily 5.1.1.10386 (cpp)
+  - SonarPython 1.10.0.2131 (python)
+  - GitHub Authentication for SonarQube 1.5.0.746 (authgithub)
+  - Mercurial 1.1.2 (scmmercurial)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.0.1.965 (kotlin)
+  - Microsoft Authentication for SonarCloud 1.0.0.174 (authmicrosoft)
+  - SonarTSQL 1.2.0.2539 (tsql)
+  - SonarJS 4.2.1.6529 (javascript)
+  - SonarRuby 1.1.0.1552 (ruby)
+  - License for SonarLint 7.4.0.17063 (license)
+  - Git 1.5.0.1302 (scmgit)
+  - SonarPHP 2.14.0.3569 (php)
+  - SonarABAP 3.7.0.1603 (abap)
+Global properties:
+  - email.from=noreply@sonarcloud.io
+  - email.prefix=[SonarCloud]
+  - sonar.auth.bitbucket.enabled=true
+  - sonar.auth.github.allowUsersToSignUp=true
+  - sonar.auth.github.enabled=true
+  - sonar.auth.microsoft.enabled=true
+  - sonar.core.id=BD367519-AWHW8ct9-T_TB3XqouNu
+  - sonar.core.serverBaseURL=https://sonarcloud.io
+  - sonar.core.startTime=2018-09-21T10:10:15+0200
+  - sonar.cpd.cross_project=false
+  - sonar.dbcleaner.weeksBeforeDeletingAllSnapshots=480
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth=4
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek=1
+  - sonar.java.collectAnalysisErrors=true
+  - sonar.leak.period=30
+  - sonar.lf.aboutText=<div class="boxed-group" style="border: none; border-radius: 3px;">
+  <div class="boxed-group-inner clearfix" style="padding: 30px; border-radius: 3px; border: #e6e6e6 1px solid; background: #f3f3f3;">
+    <div style="overflow: hidden; line-height: 1.5; font-size: 16px;">
+      <p>
+Analyze your open source and private projects on SonarCloud.
+Select your <a href="https://about.sonarcloud.io">plan</a> and start improving. 
+      </p>
+    </div>
+  </div>
+</div>
+  - sonar.lf.enableGravatar=true
+  - sonar.lf.logoWidthPx=105
+  - sonar.onboardingTutorial.showToNewUsers=true
+  - sonar.organizations.anyoneCanCreate=true
+  - sonar.organizations.createPersonalOrg=true
+  - sonar.plsql.file.suffixes=sql,tab,pkb
+  - sonar.tsql.file.suffixes=.tsql
+Settings for module: veeruborra_myAngularApp
+  - sonar.host.url=https://sonarcloud.io
+  - sonar.login=******
+  - sonar.organization=veeruborra-github
+  - sonar.projectBaseDir=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp
+  - sonar.projectKey=veeruborra_myAngularApp
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.2.0.1227
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=E:\VeerendraNewProjects\midJulyAngular\sonarcube\myAngularApp\.scannerwork
